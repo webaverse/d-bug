@@ -1,0 +1,14 @@
+{
+  "name": "dragon-pet",
+  "description": "Dragon Pet XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "dragon.glb",
+  "components": [
+    {
+      "type": "pet",
+      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping",
+      "attractedTo": "fruit",
+      "eatSpeed": 2000
+    }
+  ]
+}
