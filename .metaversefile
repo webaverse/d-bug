@@ -1,0 +1,12 @@
+{
+  "name": "d-bug",
+  "start_url": "d-bug.glb",
+  "components": [
+    {
+      "type": "pet",
+      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping",
+      "attractedTo": "fruit",
+      "eatSpeed": 2000
+    }
+  ]
+}
